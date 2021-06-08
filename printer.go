@@ -1,4 +1,4 @@
-package github.com/lamn18/goshared
+package "goshared"
 
 import (
     "fmt"
