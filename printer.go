@@ -1,4 +1,4 @@
-package "goshared"
+package goshared
 
 import (
     "fmt"
